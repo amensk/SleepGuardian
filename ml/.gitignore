@@ -1,0 +1,16 @@
+# Dataset — too large for git (download from CapnoBase / PhysioNet)
+data/
+
+# Model checkpoint — use Git LFS or download separately
+output/best_model.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/

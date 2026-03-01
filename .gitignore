@@ -7,9 +7,11 @@ DerivedData/
 *.orig
 *.swp
 
-# Build output
+# Build output (Xcode)
 build/
-output/
+
+# Allow ml/output (demo assets) but ignore iOS build output
+/output/
 
 # macOS
 .DS_Store

@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+wfdb
+pyedflib
